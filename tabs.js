@@ -38,5 +38,3 @@ function tabs(tabsSelector, tabsContentSelector, tabsParentSelector, activeClass
         }
     });
 }
-
-export default tabs;
